@@ -8,3 +8,7 @@ I useth this account f'r both schoole and p'rsonal projects. I might did split m
 I knoweth Python v'ry well and I am learning Java. I eke knoweth how to useth JSON.
 
 Fare thee well.
+
+Mine Own Arts:
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,html,idea,java,md,pr,ps,pycharm,py,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
