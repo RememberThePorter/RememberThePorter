@@ -1,9 +1,7 @@
 Good morrow!
 
-I use this account for both school and personal projects. I might split my personal projects into a different account in the future, though. If you know who I am, great. If not, too bad!
+I useth this account f'r both school and p'rsonal projects. I might did split mine own p'rsonal projects into a diff'rent account in the future, though. If 't be true thee knoweth who is't I am, most wondrous. If 't be true not, too lacking valor!
 
-I know Python very well and I am learning Java. I also know how to use JSON.
+I knoweth Python v'ry well and I am learning Java. I eke knoweth how to useth JSON.
 
 Fare thee well.
-
-(P.S. Maybe I'll make the rest of my README Shakespearean in the future, but I can't be bothered right now.)
