@@ -11,4 +11,4 @@ Fare thee well.
 
 Mine Own Arts:
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,html,idea,java,md,pr,ps,pycharm,py,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,discord,eclipse,git,github,gmail,html,idea,java,latex,linux,md,mysql,obsidian,pr,ps,pycharm,py,raspberrypi,redhat,regex,replit,stackoverflow,visualstudio,vscode,windows)](https://skillicons.dev)
