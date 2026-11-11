@@ -1,5 +1,5 @@
 [![RememberThePorter's GitHub stats](https://github-stats-extended.vercel.app/api?username=RememberThePorter&hide=stars,issues&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RememberThePorter&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RememberThePorter&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello!
 
